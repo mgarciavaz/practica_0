@@ -1,0 +1,9 @@
+1.	Practica cero, crear repo en git hub
+2.	Clonarla en nuestro local
+3.	Crear estructura carpeta proyecto local
+4.	Crea readme, directamente desde bloc de notas
+5.	Crear nviroment practica (conda) 
+6.	Enviroment instalar con phyton 3.9 panda numpy sweetviz 
+7.	Requirement text
+8.	Actualizar repo de git hub a local, todo lo que genreamos en local se va a git hub
+9.	Como paso final mirar el kernel. Generamos uno nuevo y lo asociamos a un enviroment
